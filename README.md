@@ -36,7 +36,7 @@ In order to make the tests run properly, do not change the id's of the component
 # final result
 
 your result should look something like this </br>
-![calculator](./calc-img.png?raw=true "Title")
+![calculator](./calc-img.png?raw=true "calculator")
 
 # How to submit?
 
