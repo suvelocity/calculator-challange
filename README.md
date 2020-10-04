@@ -33,6 +33,11 @@ DigitButton - should get {value(0-9) , onClick(function)} as props. </br>
 
 In order to make the tests run properly, do not change the id's of the components:
 
+# final result
+
+your result should look something like this </br>
+![calculator](./calc-img.png?raw=true "Title")
+
 # How to submit?
 
 just uplaod your repoistory to our website : www.Hirlul.com/calculator-challenge
