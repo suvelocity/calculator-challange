@@ -10,9 +10,9 @@ how to start?
 3. start coding!
 
 # Template instructions
-In the template file you will get 2 components.
-MathOperation - should get {type , onClick(function)} as props.
-DigitButton - should get {value(0-9) , onClick(function)} as props.
+In the template file you will get 2 components. </br>
+MathOperation - should get {type , onClick(function)} as props. </br>
+DigitButton - should get {value(0-9) , onClick(function)} as props. </br>
 * You can use operationTypes array to check what values are expected as props at MathOperation component.
 
 # Requirements:
