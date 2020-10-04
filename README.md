@@ -39,7 +39,7 @@ In order to make the tests run properly, do not change the id's of the component
 # final result
 
 your result should look something like this </br>
-![calculator](./readme-files/calc-img.png?raw=true "calculator")
+![calculator](./calc-img.png?raw=true "calculator")
 
 # How to submit?
 
